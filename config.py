@@ -42,8 +42,8 @@ GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/EsproUpdate")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/EsproSupport")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/+OwXlutqNgoUyYzJl")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/l_DW_l")
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
@@ -87,10 +87,10 @@ clean = {}
 autoclean = []
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://telegra.ph/file/4f98411fc494e0491472e.jpg"
+    "START_IMG_URL", "https://graph.org/file/ebb0d85faab06c034ed4c.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://telegra.ph/file/4f98411fc494e0491472e.jpg"
+    "PING_IMG_URL", "https://graph.org/file/e642e121a9d93e1ac13ca.jpg"
 )
 PLAYLIST_IMG_URL = "https://telegra.ph/file/4f98411fc494e0491472e.jpg"
 STATS_IMG_URL = "https://telegra.ph/file/4f98411fc494e0491472e.jpg"
