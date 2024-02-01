@@ -46,7 +46,7 @@ def stream_markup_timer(_, chat_id, played, dur):
     elif 10 < umm < 20:
         bar = "▰▰📍▱▱▱▱▱▱▱▱"
     elif 20 <= umm < 30:
-        bar = " ▰▰▰📍▱▱▱▱▱▱▱"
+        bar = "▰▰▰📍▱▱▱▱▱▱▱"
     elif 30 <= umm < 40:
         bar = "▰▰▰▰📍▱▱▱▱▱▱"
     elif 40 <= umm < 50:
@@ -60,7 +60,7 @@ def stream_markup_timer(_, chat_id, played, dur):
     elif 80 <= umm < 95:
         bar = "▰▰▰▰▰▰▰▰▰📍▱"
     else:
-        bar = " ▰▰▰▰▰▰▰▰▰▰📍"
+        bar = "▰▰▰▰▰▰▰▰▰▰📍"
     buttons = [
         [
             InlineKeyboardButton(text="▷", callback_data=f"ADMIN Resume|{chat_id}"),
