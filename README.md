@@ -1,11 +1,11 @@
   
 
 <h2 align="center">
-    ──「 𝐓𝚨𝐌𝚨𝐍𝐍𝚨 𝐌𝐔𝐒𝐈𝐂🎶🎵 」──
+    ──「 𝐑𝐈𝐘𝐀 𝐌𝐔𝐒𝐈𝐂🎶🎵 」──
 </h2>
 
 <p align="center">
-  <img src="https://graph.org/file/ebb0d85faab06c034ed4c.jpg">
+  <img src="https://telegra.ph/file/029e23868f0add8db2bd4.jpg">
 </p>
 
 
